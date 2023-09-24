@@ -72,7 +72,23 @@ nav ul li {
   box-shadow: 0px 0px 3px 5px #5382E2;
 }
 
-
+.contactsI {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ul2 {
+  justify-content: center;
+  align-items: center;
+}
+.li2 {
+  display: inline-block;
+  list-style: none;
+  margin: 0 2%;
+}
+.a2{
+  text-decoration: none;
+}
 
 
 
